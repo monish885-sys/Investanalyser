@@ -1,0 +1,34 @@
+# Env and secrets
+.env
+.env.local
+*.pem
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Logs and temp
+*.log
+.cache/
+
+.env.*
+!.env.example
+node_modules/
+.DS_Store
+*.pyc
+.cursor/
