@@ -1,4 +1,4 @@
-# PersonaInvest
+# PersonaInvest — Multi-Agent Portfolio Desk
 
 A **Python-based Multi-Agent Investment Analysis System** that fetches real-time portfolio data from Upstox and HDFC InvestRight, then runs an automated **consensus analysis** using Google Gemini across four investing personas.
 
@@ -17,7 +17,7 @@ A **Python-based Multi-Agent Investment Analysis System** that fetches real-time
 
 1. **Clone and enter project**
    ```bash
-   cd Investanalyser
+   cd persona-invest-analyser
    ```
 
 2. **Create virtual environment and install dependencies**
